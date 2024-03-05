@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcompass_frontend=self.webpackChunkcompass_frontend||[]).push([[592],{945:(a,s,n)=>{n.d(s,{q:()=>u});const r=["January","February","March","April","May","June","July","August","September","October","November","December"];class u{static convertToLongDate(t){const e=t.split("/");return e.length<3?t:`${r[+e[0]-1]} ${e[1]}, ${e[2]}`}}}}]);
